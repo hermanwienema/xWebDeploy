@@ -29,6 +29,13 @@ Note: This composite resource requires the **Package** resource that ships with 
 
 ## Versions
 
+### Unreleased
+
+
+### 1.1.0.0
+
+* Added WebdeployMsi setting to make xWebDeploy work without internet access
+
 ### 1.0.0.0
 
 * Initial release with the following resources 
